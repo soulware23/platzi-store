@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/platzi-store.git"
+    "url": "git+https://github.com/soulware23/platzi-store.git"
   },
   "keywords": [
     "React",
@@ -57,7 +57,7 @@
     "webpack-dev-server": "^3.9.0"
   },
   "bugs": {
-    "url": "https://github.com/gndx/platzi-store/issues"
+    "url": "https://github.com/soulware23/platzi-store/issues"
   },
-  "homepage": "https://github.com/gndx/platzi-store/#readme"
+  "homepage": "https://github.com/soulware23/platzi-store/#readme"
 }
