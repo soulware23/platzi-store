@@ -13,7 +13,7 @@ notifications:
   email:
     recipients:
       - soul23.4ever@gmail.com
-      - sau.garcia@isat.com.mx
+      - saul.garcia@isat.com.mx
     on_success: always
     on_failure: always
 deploy:
