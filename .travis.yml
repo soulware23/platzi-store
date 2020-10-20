@@ -9,6 +9,13 @@ git:
   depth: 3
 script:
   - yarn build
+notifications:
+  email:
+    recipients:
+      - soul23.4ever@gmail.com
+      - sau.garcia@isat.com.mx
+    on_success: always
+    on_failure: always
 deploy:
   provider: pages
   skip-cleanup: true
@@ -19,4 +26,3 @@ deploy:
   commit_message: "Deploy del proyecto desde Travis"
   on:
     branch: master
-    
